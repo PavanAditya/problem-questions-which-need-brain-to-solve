@@ -11,7 +11,7 @@ Note:
 - Accepting inputs and outputs is to be done seperately or an online IDE from any of the above coding platforms with the I/O logic is needed.
 ```
 
-### Can help in clearing the Coding Challenge rounds for major companies like #FAANG and other PBCs.
+- "Can help in clearing the Coding Challenge rounds for major companies like #FAANG and other PBCs."
 
 ## Direct Links to every question mentioning the type, sol langs available and source of quo
 
