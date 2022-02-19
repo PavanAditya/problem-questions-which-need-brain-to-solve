@@ -65,3 +65,5 @@ Note:
 <br />
 [Subarray Sum Equals K - Algo - Java - LeetCode](https://github.com/PavanAditya/problem-questions-which-need-brain-to-solve/tree/main/subarray-sum-equals-K)
 <br />
+[sum(1)(2)(3)...(n) - Javascript Core Concept - Js - Youtube](https://github.com/PavanAditya/problem-questions-which-need-brain-to-solve/tree/main/sum-till-n-multiple-invocations-js)
+<br />
